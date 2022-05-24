@@ -12,6 +12,8 @@ $ cpif [file] [options]
 [options]:
     --help:
         Show help
+    --copy:
+        Copy to clipboard
     --info:
         Show all metadata
     --name:
